@@ -1,0 +1,12 @@
+.navHeader {
+  height: 50px;
+  width: 100%;
+  background-color: #00367c;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+.navHeaderTitle {
+  padding-left: 20px;
+  font-size: 22px;
+}

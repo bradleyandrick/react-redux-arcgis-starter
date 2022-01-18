@@ -1,0 +1,13 @@
+.App {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.mapHolder {
+  height: calc(100% - 50px);
+  width: 100%;
+  position: absolute;
+}

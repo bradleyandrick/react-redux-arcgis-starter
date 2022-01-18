@@ -1,0 +1,17 @@
+.selectedFeatureInfo {
+  position: absolute;
+  bottom: 30px;
+  left: 15px;
+  background-color: #fff;
+  height: 125px;
+  width: 150px;
+  z-index: 5;
+  box-shadow: 0 5px 8px rgb(0 0 0 / 30%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.anotherComponentText {
+  font-size: 12px;
+}

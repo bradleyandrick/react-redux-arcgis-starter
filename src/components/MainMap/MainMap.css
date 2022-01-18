@@ -1,0 +1,9 @@
+.mainMap {
+  background-color: #d3d3d3;
+  height: 100%;
+  width: 100%;
+}
+
+.esri-view .esri-view-surface--inset-outline:focus::after {
+  outline: none !important;
+}
